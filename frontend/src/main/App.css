@@ -2,9 +2,10 @@
   /* */
   --bg-dark: #1a2f3a; /*Cor do menu*/
 
-  --logo-height: 100px; /*Altura da logo*/
-  --header-height: 100px; /*Altura do header*/
-  --aside-width: 225px; /*Largura do menu*/
+  --logo-height: 199px; /*Altura da logo*/
+  --header-height: 199px; /*Altura do header*/
+  --menu-top-height: 70px;
+  --aside-width: 199px; /*Largura do menu*/
   --footer-height: 40px;
 
   --shadow: 0 2px 23px 0 rgba(0, 0, 0, 0.1), 0 2px 49px 0 rgba(0, 0, 0, 0.06);
