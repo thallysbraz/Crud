@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "thallys",
+      "email": "thallys.braz@firstdecision.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Thallys Braz",
+      "email": "thallysbraz3@gmail.com"
+    }
+  ]
+}
