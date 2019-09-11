@@ -2,23 +2,13 @@
   "users": [
     {
       "id": 1,
-      "name": "thallys",
+      "name": "thallys5",
       "email": "thallys.braz@firstdecision.com.br"
-    },
-    {
-      "id": 2,
-      "name": "Thallys Braz",
-      "email": "thallysbraz3@gmail.com"
     },
     {
       "id": 3,
       "name": "Pedro",
       "email": "pedro@gmail"
-    },
-    {
-      "name": "joao3",
-      "email": "htht@makas",
-      "id": 4
     }
   ]
 }
