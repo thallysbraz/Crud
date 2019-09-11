@@ -1,6 +1,6 @@
 :root {
   /* */
-  --bg-dark: #1a2f3a; /*Cor do menu*/
+  --bg-dark: rgb(19, 46, 123); /*Cor do menu*/
 
   --logo-height: 149px; /*Altura da logo*/
   --header-height: 123px; /*Altura do header*/
