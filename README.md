@@ -72,4 +72,4 @@ npm start
 
 9. Pronto, a aplicação irá executar na página web.
 
-<p align="center"> <img src="C:/Users/thallys.braz/Desktop/GitHub/Crud/frontend/src/assets/imgs/First.png" width="auto" height="400" />
+<p align="center"> <img src="https://github.com/thallysbraz/Crud/blob/development/frontend/src/assets/imgs/First.PNG" width="auto" height="400" />
