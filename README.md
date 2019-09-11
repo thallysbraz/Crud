@@ -2,9 +2,9 @@
 
 ## Sobre o repositório
 
-[Link para o repositorio](https://github.com/thallysbraz/Crud)
-
 <p align="justify"> Encarregado de armazenar o codigo fonte da aplicação</p>
+
+[Link para o repositorio](https://github.com/thallysbraz/Crud)
 
 ## Sobre o projeto
 
@@ -64,12 +64,6 @@ npm install
 npm start
 ```
 
-8. Em seguida, execute o seguinte comando:
-
-```bash
-npm start
-```
-
-9. Pronto, a aplicação irá executar na página web.
+8. Pronto, a aplicação irá executar na página web.
 
 <p align="center"> <img src="https://github.com/thallysbraz/Crud/blob/development/frontend/src/assets/imgs/First.PNG" width="auto" height="400" />
