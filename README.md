@@ -34,14 +34,42 @@ Verifique se as portas localhost 3000 e 3001  não estão sendo usadas.
 git clone: https://github.com/thallysbraz/Crud
 ```
 
-3. Execute o comando na pasta raíz do projeto:
+3. Pelo terminal entre na pasta:
+
+```bash
+backend
+```
+
+4. Execute o seguinte comando:
 
 ```bash
 npm install
 ```
 
-4. Em seguida:
+5. Em seguida, execute o seguinte comando:
 
 ```bash
 npm start
 ```
+
+6. Em outro terminal, entre na pasta frontend e execute o comando:
+
+```bash
+npm install
+```
+
+7. Em seguida, execute o seguinte comando:
+
+```bash
+npm start
+```
+
+8. Em seguida, execute o seguinte comando:
+
+```bash
+npm start
+```
+
+9. Pronto, a aplicação irá executar na página web.
+
+<p align="center"> <img src="C:/Users/thallys.braz/Desktop/GitHub/Crud/frontend/src/assets/imgs/First.png" width="auto" height="400" />
